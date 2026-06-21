@@ -1,0 +1,21 @@
+# Archivos temporales de LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bcf
+*.blg
+*.run.xml
+
+# Archivos comprimidos o auxiliares
+*.gz
+*.zip
+
+# Archivos de sistema (opcional)
+.DS_Store
+Thumbs.db
